@@ -6,7 +6,6 @@ COMMON CSS START
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-   
     font-family: 'Poppins', sans-serif;
 }
 /* html,body{
@@ -41,9 +40,10 @@ h2{
     font-size: 25px;
     font-weight: 600;
 }
-p{
+p,.nav-link{
     font-weight: 400;
     font-size: 18px;
+    font-family: 'Poppins', sans-serif;
 }
 button:focus{
     box-shadow: unset!important;
