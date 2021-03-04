@@ -1,0 +1,48 @@
+@media only screen and (max-width:768px){
+    .banner{
+        text-align: center;
+        
+    }
+    .col-md img{
+        margin-top: 20px;
+    }
+    h1,h3,h4,h5,h6{
+        font-size: 30px;
+    }
+    .col-md-6.m-auto.text-center {
+        padding-top: 50px;
+    }
+    .design-build{
+        padding-top: 40px;
+        text-align: center;
+    }
+    .design-build h1{
+        font-size: 25px;
+    }
+    .trusted{
+        margin-bottom: 5px!important;
+    }
+    .col-md-4.text-center.icon-bar {
+        margin-top: 30px;
+    }
+    h2.my-3 {
+        overflow: hidden;
+    }
+    .menu.mt-3.text-white ul li a {
+        font-size: 18px;
+        padding: 5px 10px;
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (max-width:575px){
+    .menu.mt-3.text-white ul li a {
+        font-size: 14px;
+        padding: 5px;
+        margin-top: 15px;
+    }
+    .copyright p {
+      
+        font-size: 15px;
+    }
+}

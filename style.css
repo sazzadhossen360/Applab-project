@@ -1,0 +1,112 @@
+/*======== ===
+COMMON CSS START
+=========== */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    font-family: 'Poppins', sans-serif;
+}
+/* html,body{
+    overflow: hidden;
+} */
+ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+button{
+    font-weight: 600;
+    background-color: #2500f9;
+    border-radius: 50px!important;
+    
+}
+.btn.btn-primary {
+    padding: 10px 20px;
+}
+h1,h3,h4,h5,h6{
+    font-weight: 700;
+    font-size: 40px;
+    overflow: hidden;
+}
+h2{
+    font-size: 25px;
+    font-weight: 600;
+}
+p{
+    font-weight: 400;
+    font-size: 18px;
+}
+button:focus{
+    box-shadow: unset!important;
+    border: unset;
+}
+.navbar-light .navbar-nav .nav-link {
+    padding: 10px 20px!important;
+}
+/*=========== 
+COMMON CSS END
+=========== */
+
+
+/*======== ===
+banner CSS START
+=========== */
+     .banner{
+        background-image: url('./img/Home-page-opt.png');
+        padding-bottom: 50px;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    } 
+   
+    .btn.watch-demo {
+        color: blue;
+    }
+/*=========== 
+banner CSS END
+=========== */
+
+
+/*======== ===
+footer CSS START
+=========== */
+    .footer{
+        background-color: #09142e;
+    }
+    .menu.mt-3.text-white ul li a  {
+        color: white;
+       
+    }
+    .social-icon ul li a {
+        color: #273043!important;
+        ;
+    }
+    .social-icon ul li a i:hover {
+        color: white;
+    }
+    .copyright p{
+        color: #5f636e;
+    }
+    .app{
+        color: #fcae61;
+    }
+/*=========== 
+footer CSS END
+=========== */
+
+
+/*======== ===
+ CSS START
+=========== */
+
+/*=========== 
+COMMON CSS END
+=========== */
